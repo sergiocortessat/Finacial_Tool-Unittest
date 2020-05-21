@@ -16,6 +16,9 @@ all_feels_list =   {
                     "Surprise":{"Startled":["Shocked","Dismayed"],"Confused":["Disillusioned","Perplexed"],"Amazed":["Astonished","Awe"],"Excited":["Eager","Energetic"]}
                 }
 
+#This list should be searchable. It has herarquy, starting from main keys Sad,HAppy, Surprice etc. From there the ther feelings appears.
+#There will be a way to coonect this feeling to web link, videos, images and so on. The point is to offer conent depending on the
+#emption
 
 
 #sad_list = {2:{"Lonely":["Isolated","Abanadoned"],"Vulnerable":["Victimized","Fragile"],"Despair":["Grief","Powerless"],"Guilty":["Ashamed","Remorsefull"],"Depressed":{"Empty","Inferior"},"Hurt":["Dissapointed","Embarrassed"]}}
